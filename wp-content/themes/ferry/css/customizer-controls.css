@@ -1,0 +1,70 @@
+.upgrade {
+  background: url(../images/btn-back.jpg);
+  border-color: #1d4467;
+  color: #fff !important;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: bold;
+  margin: 5px auto 0 auto;
+  padding: 13px 30px 14px 29px;
+  text-transform: uppercase;
+  width: 78%;
+  border-radius:2px;
+  text-decoration: none;
+}
+.review {
+  background-color: #82b541;
+  border-color: #1ec846;
+  color: #fff !important;
+  cursor: pointer;
+  display: inline-block;
+   margin-bottom: 0;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 13px 30px 14px 29px;
+  text-transform: uppercase;
+  width: 78%;
+  border-radius:2px;
+  text-decoration: none;
+}
+.document{
+  background-color: #a8a8a8;
+  border-color: #ef9c28;
+  color: #fff !important;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 0px;
+  padding: 13px 30px 14px 29px;
+  text-transform: uppercase;
+  width: 78%;
+  border-radius:2px;
+  text-decoration: none;
+}
+.tistore {
+  background-color: #bf141a;
+  border-color: #1ec846;
+  color: #fff !important;
+  cursor: pointer;
+  display: inline-block;
+   margin-bottom: 0;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 13px 30px 14px 29px;
+  text-transform: uppercase;
+  width: 78%;
+  border-radius:2px;
+  text-decoration: none;
+}
+
+
+#accordion-section-ferry_pro_section .accordion-section-title {
+  background: #00a63f;
+  color: #fff;
+}
+
+#accordion-section-ferry_pro_section .accordion-section-title:after {
+  color: #fff;
+}

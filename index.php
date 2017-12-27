@@ -1,44 +1,17 @@
-<?php get_header(); ?>
+<?php
+/**
+ * Front to the WordPress application. This file doesn't do anything, but loads
+ * wp-blog-header.php which does and tells WordPress to load the theme.
+ *
+ * @package WordPress
+ */
 
-<div class="container">
-<div class="row">
+/**
+ * Tells WordPress to load the WordPress theme and output it.
+ *
+ * @var bool
+ */
+define('WP_USE_THEMES', true);
 
-		<div class="col-sm-12 col-md-9 blog_overview">
-
-        <?php 
-			if ( have_posts() ) : while ( have_posts() ) : the_post();
-	  
-				// POST FORMAT: Verwijzing naar content.php
-				get_template_part( 'content', 'blog' );
-  
-			endwhile; ?>
-		
-		<!-- Pagina navigation -->
-		<div class="">
-			<div class="col-xs-6 text-left posts_link">
-				<h4><?php next_posts_link('< Older posts'); ?></h4>
-			</div>
-			<div class="col-xs-6 text-right posts_link">
-				<h4><?php previous_posts_link('Newer posts >'); ?></h4>
-			</div>
-		</div>
-
-		<? endif; 
-		?>
-
-		</div>
-		
-
-		<div class="col-sm-12 col-md-3 ">
-			<?php get_sidebar(); ?>
-		</div>
-
-
-
-        
-</div>
-</div>
-
-
-
-<?php get_footer(); ?>
+/** Loads the WordPress Environment and Template */
+require( dirname( __FILE__ ) . '/wp-blog-header.php' );

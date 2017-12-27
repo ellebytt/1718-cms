@@ -1,0 +1,329 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ferry\n"
+"POT-Creation-Date: 2017-06-20 10:19+0530\n"
+"PO-Revision-Date: 2017-06-20 10:19+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\wordpress\\wp-content\\themes\\ferry-"
+"lite\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wordpress\\wp-content\\themes"
+"\\ferry-lite\n"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/404.php:17
+msgid "404"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/404.php:32
+msgid "4"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/404.php:39
+msgid "Go Back"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/content.php:25
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/sections/home-blog.php:47
+msgid "by"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/content.php:28
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/templates/fullwidth.php:31
+msgid "Pages:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/footer.php:29
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_copyright.php:34
+msgid ""
+"<p>&copy; Copyright 2017 by <a href=\"#\">Ferry</a>. All Rights Reserved. "
+"Powered by <a href=\" https://wordpress.org/\">WordPress</a></p>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/functions.php:68
+msgid "Primary menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/functions.php:69
+msgid "Top Right Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/functions.php:184
+msgid "Read More"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/search.php:24
+msgid "Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/search.php:26
+msgid "Sorry, Do Not match."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/single.php:49
+msgid "By"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_copyright.php:7
+msgid "Footer Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_copyright.php:11
+msgid "Footer Copyright Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_copyright.php:12
+msgid "This is a Footer section."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_copyright.php:25
+msgid "Hide/Show Copyright Text"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_copyright.php:26
+msgid "Hide/Show Footer Copyright Text"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_copyright.php:29
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_copyright.php:61
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:325
+msgid "On"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_copyright.php:29
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_copyright.php:61
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:325
+msgid "Off"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_copyright.php:38
+msgid "Copyright text"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_copyright.php:46
+msgid "Social Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_copyright.php:57
+msgid "Hide/Show Social Icons"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_copyright.php:58
+msgid "Hide/Show Footer Social Icons"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_copyright.php:69
+msgid "Facebook URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_copyright.php:80
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_copyright.php:100
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_copyright.php:121
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_copyright.php:142
+msgid "Open Link New tab/window"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_copyright.php:89
+msgid "Twitter URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_copyright.php:109
+msgid "Linkedin URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_copyright.php:130
+msgid "Google-plus URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:8
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:17
+msgid "Choose Post"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:31
+msgid "Check out the"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:33
+msgid "http://themeansar.com/themes/ferry"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:33
+msgid "PRO version"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:34
+msgid " Want to display News & Event With Categorization"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:42
+msgid "Home Sections Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:52
+msgid "Slider Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:64
+msgid "Enable Slider Section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:77
+msgid "Select Post One"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:90
+msgid "Select Post Two"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:103
+msgid "Select Post Three"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:117
+msgid "Ads Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:130
+msgid "Enable Ads Section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:145
+msgid "Ads Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:158
+msgid "Ads Subtitle"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:171
+msgid "Select Ads One"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:184
+msgid "Select Ads Two"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:197
+msgid "Select Ads Three"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:211
+msgid "Shop Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:223
+msgid "Enable Product Section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:236
+msgid "Product Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:248
+msgid "Product Subtitle"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:258
+msgid "Click here to install woocommerce plugin"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:259
+msgid "Install woocommerce plugin to show Shop related product"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:283
+msgid "News & Events Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:295
+msgid "Enable News Section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:307
+msgid "Choose Background Image"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:321
+msgid "Hide/Show Blog Meta:- Like author name,categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:322
+msgid "Hide / Show Blog Meta:- Like author name,categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:336
+msgid "Latest News Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_homepage.php:349
+msgid "Latest News Subtitle"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_pro.php:13
+msgid "https://themeansar.com/themes/ferry/"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_pro.php:13
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_pro.php:20
+msgid "Themeansar Store"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_pro.php:30
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_pro.php:54
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_pro.php:96
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_pro.php:106
+msgid "Discover ferry Pro"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_pro.php:43
+msgid "https://wordpress.org/support/view/theme-reviews/ferry/#postform/"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_pro.php:43
+msgid "Support Forum"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_pro.php:67
+msgid "http://docs.themeansar.com/ferry-lite/"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_pro.php:67
+msgid "Online Documenation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_pro.php:82
+msgid "https://themeansar.com/themes/"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_pro.php:82
+msgid "Explore Our Themes"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_top_header.php:7
+msgid "Top Header Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_top_header.php:11
+msgid "Header Info Details Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_top_header.php:21
+msgid "Info One:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\ferry-lite/inc/ansar/customize/ta_customize_top_header.php:33
+msgid "Info Two:"
+msgstr ""

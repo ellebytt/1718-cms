@@ -1,0 +1,510 @@
+/*===== Top Bar color =====*/
+.header-center .ferry-head-detail {
+    background: #222;
+    border-color: #222;
+}
+.header-center .ferry-head-detail .info-left li a, .header-center .ferry-head-detail li a i, .header-center .ferry-head-detail .info-right li a, .ferry-head-detail .info-left {
+    color: #fff;
+}
+.ferry-head-detail ul li a:hover, .ferry-head-detail ul li i:hover, .ferry-head-detail ul li a:focus, .ferry-head-detail ul li i:focus, a:hover, a:focus {
+	color: #b17f53;
+}
+.ferry-head-detail ul ul li:hover, .ferry-head-detail ul ul li:focus {
+	background: #ebebeb;
+}
+.ferry-head-detail ul.info-left ul.sub-menu li a, .ferry-head-detail ul.info-right ul.sub-menu li a {
+	color: #222;
+}
+.ferry-head-detail ul ul li a:hover, .ferry-head-detail ul ul li a:focus {
+	color: #222;
+}
+.header-center {
+	background:	#fff;
+}
+.header-center .navbar-wp {
+	background:#fff;
+	border-color: rgba(0,0,0,.09);
+}
+.header-center .navbar-wp .navbar-nav > li > a {
+	color: #222;
+}
+.header-center .navbar-wp .navbar-nav > li > a:hover, .header-center .navbar-wp .navbar-nav > li > a:focus, .header-center .navbar-wp .navbar-nav > .active > a, .header-center .navbar-wp .navbar-nav > .active > a:hover, .header-center .navbar-wp .navbar-nav > .active > a:focus {
+	color: #b17f53;
+	background-color: #fff;
+}
+.header-center .navbar-default .navbar-toggle .icon-bar {
+	background: #222;
+}
+/*==================== Theme Menu ====================*/
+/*=== navbar background color ===*/ 
+.ferry-search-box .ferry-search .btn, .navbar-wp .dropdown-menu > .active > a, .navbar-wp .dropdown-menu > .active > a:hover, .navbar-wp .dropdown-menu > .active > a:focus, .navbar-wp .dropdown-menu > li > a:hover, .navbar-wp .navbar-toggle:hover, .navbar-wp .navbar-toggle:focus, .ferry-search-box .ferry-search .btn {
+	background: #f1f1f1;
+}
+.is-sticky .navbar-wp {
+	background: rgba(0,0,0,0.9);
+}
+/*=== navbar hover color ===*/
+.navbar-wp .navbar-nav > li > a:hover, .navbar-wp .navbar-nav > li > a:focus, .navbar-wp .navbar-nav > .active > a, .navbar-wp .navbar-nav > .active > a:hover, .navbar-wp .navbar-nav > .active > a:focus, .navbar-wp .navbar-nav > .open > a, .navbar-wp .navbar-nav > .open > a:hover, .navbar-wp .navbar-nav > .open > a:focus, .navbar-wp .navbar-nav > li > a:hover, .navbar-wp .navbar-nav > li > a:focus, .navbar-header .navbar-brand , .navbar-wp .navbar-nav > li > a:hover, .navbar-wp .navbar-nav > li > a:focus, .navbar-wp .navbar-nav > .active > a, .navbar-wp .navbar-nav > .active > a:hover, .navbar-wp .navbar-nav > .active > a:focus, .navbar-wp .navbar-nav > .open > a, .navbar-wp .navbar-nav > .open > a:hover, .navbar-wp .navbar-nav > .open > a:focus, .navbar-wp .navbar-nav > li > a:hover, .navbar-wp .navbar-nav > li > a:focus, .navbar-header .navbar-brand  {
+	color: #fff;
+}
+/*=== navbar hover border-color ===*/
+.navbar-wp .navbar-nav > li > a:hover, .navbar-wp .navbar-nav > li > a:focus,  .navbar-wp .navbar-nav > .active > a, .navbar-wp .navbar-nav > .active > a:hover, .navbar-wp .navbar-nav > .active > a:focus, .navbar-wp .navbar-nav > .open > a, .navbar-wp .navbar-nav > .open > a:hover, .navbar-wp .navbar-nav > .open > a:focus, .navbar-wp .navbar-toggle:hover, .navbar-wp .navbar-toggle:focus {
+	border-color: #B17F53;
+}
+.navbar-wp .navbar-nav > li > ul::before {
+	border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #B17F53;
+}
+.navbar-wp .dropdown-menu > li {
+    border-color: #e0eded;
+}
+/*=== navbar Header background ===*/
+.navbar-wp {
+	background: rgba(0,0,0,0);
+}.navbar-wp .dropdown-menu {
+	background: #fff;
+}
+/*=== navbar drop down hover color ===*/
+.ferry-search-box .ferry-search .btn, .navbar-base .navbar-nav > .open > a, .navbar-base .navbar-nav > .open > a:hover, .navbar-base .navbar-nav > .open > a:focus, .navbar-wp .dropdown-menu > .active > a, .navbar-wp .dropdown-menu > .active > a:hover, .navbar-wp .dropdown-menu > .active > a:focus, .navbar-wp .dropdown-menu > li > a:hover, .navbar-base .navbar-nav > li >a.dropdown-form-toggle, .navbar-wp .navbar-toggle:hover, .navbar-wp .navbar-toggle:focus {
+	color: #212121;
+}
+.navbar-wp .navbar-nav > .active > a, .navbar-wp .navbar-nav > .active > a:hover, .navbar-wp .navbar-nav > .active > a:focus, .navbar-wp .navbar-nav > li > a:hover, .navbar-wp .navbar-nav > li > a:focus, .navbar-wp .navbar-nav > .open > a, .navbar-wp .navbar-nav > .open > a:hover, .navbar-wp .navbar-nav > .open > a:focus, .navbar-wp .navbar-nav > li > a:hover, .navbar-wp .navbar-nav > li >a:focus {
+	background-color: rgba(0,0,0,0);
+}
+/*=== navbar text color ===*/ 
+.navbar-wp .navbar-nav > li > a {
+	color: #fff;
+}
+.navbar-toggle, .navbar-wp .dropdown-menu > li > a, .navbar-wp .navbar-nav > li > a.dropdown-form-toggle {
+	color: #333;
+}
+.navbar-toggle .icon-bar {
+	background-color: #fff;
+}
+/*==================== Body & Global ====================*/
+
+/*=== background theme ===*/ 
+.ferry-view-detail-slider .owl-controls .owl-buttons div:hover, .ferry-view-detail-slider .owl-controls .owl-page.active span, .ferry-feature-box-icon i:hover, input[type="submit"], button, .ferry-contact .ferry-widget-address li span.icon-addr, footer .ferry-mailchimp-widget .btn, footer .ferry-widget .ferry-widget-tags a:hover, footer .ferry-widget .tagcloud a:hover, footer .ferry-widget .ferry-widget-address li span.icon-addr, .ferry-slider-warraper .owl-controls.clickable .owl-page:hover span, .btn.btn-tislider:hover, .btn.btn-tislider:focus, .btn.btn-tislider-two, .content-testimonials span.icon-quote, #ferry-testimonial .owl-controls .owl-buttons div:hover, footer .calendar_wrap tbody #today, .ferry-sidebar .calendar_wrap tbody #today, .ferry-sidebar .ferry-widget .ferry-widget-address li span.icon-addr, .ferry-sidebar .ferry-mailchimp-widget .btn, .ferry-sidebar .ferry-widget .ferry-social li span.icon-soci:hover, .ferry-sidebar .ferry-widget h6::before, .ferry-sidebar > .ferry-widget-tags a:hover, .ferry-sidebar .ferry-widget > .tagcloud a:hover, #ferry-slider .aside-format .aside-icon, #ferry-slider .audio-format .audio-icon, #ferry-slider .quote-format .quote-icon, .ferry-port-modal .modal-header, .ferry-team-social, .ferry-callout-feature-box-icon:hover, .btn-theme, .btn-theme-two:hover, .btn-theme-two:focus, .btn-blog:hover, .ferry-portfolio-box-caption, .blog-slider .owl-controls .owl-buttons div:hover, .pagination > .active > a, .pagination > .active > a:hover, .pagination > li > a:hover, .pagination > li > a:focus, .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus, footer .ferry-social li span.icon-soci:hover {
+	background: #B17F53;
+}
+.ferry-slider-warraper .owl-controls .owl-page span, .ferry-slider-warraper .owl-controls.clickable .owl-page:hover span, .ferry-slider-warraper .owl-controls .owl-page.active span, .ferry-slider-warraper .owl-controls .owl-page span:hover{
+	background: #fff;
+}
+.ferry-slider-warraper .owl-controls .owl-page span, .ferry-slider-warraper .owl-controls.clickable .owl-page:hover span, .ferry-slider-warraper .owl-controls .owl-page.active span, .ferry-slider-warraper .owl-controls .owl-page span:hover {
+	border-color: #B17F53;
+}
+footer .ferry-widget .ferry-social li span.icon-soci:hover, .ferry-skills .progress-bar-theme {
+ 	background-color: #B17F53;
+}
+.ferry-calltoaction .overlay {
+	background: rgba(0,0,0,0.6);
+}
+/*==== color theme ===*/ 
+a, .ferry-view-detail-content a, .ferry-blog-category a:hover, .ferry-blog-category a:focus, .ferry-callout-feature-box-info h4, .entry-header h1::before, .entry-content a, .entry-summary a, .entry-footer a, .ferry-sidebar a:hover, .ferry-sidebar a:focus, .btn.btn-tislider-two, .ferry-page-breadcrumb > li a:hover, .ferry-error-404 h1, .ferry-accordion-heading a, .ferry-accordion-heading a, .ferry-sidebar .ferry-widget .ferry-twitter-feed li a, .ferry-sidebar .ferry-widget .ferry-social li a, .ferry-feature-box-icon i, .ferry-callout-feature i, .ferry-callout-feature-box-icon i, .ferry-callout-feature-box-info h4, .btn-video, .btn-video:focus, .ferry-comments .ferry-reply:hover, .ferry-footer-top-area .ferry-app-widget h5 a i, footer .ferry-widget .ferry-twitter-feed li a, .ti_scroll i, .ferry-service-inner h3 span, .ferry-service:hover .ser-icon, .ferry-service:hover .ser-icon i, .ferry-funfact h3, .ferry-link-caption i {
+	color: #B17F53;
+}
+/*=== border theme ===*/
+.ferry-view-detail-slider .owl-controls .owl-buttons div:hover, #ferry-slider .item .ferry-slider-inner .quote-format .quote-icon, footer .ferry-widget .ferry-social li span.icon-soci:hover, footer .ferry-social li span.icon-soci:hover, input[type="submit"], button, #ferry-slider .item .ferry-slider-inner .aside-format .aside-icon, .ferry-search-box .ferry-search .btn, .ferry-sidebar .ferry-widget .ferry-social li span.icon-soci:hover, #ferry-testimonial .owl-controls .owl-buttons div:hover, #ferry-slider .item .ferry-slider-inner .audio-format .audio-icon, #ferry-testimonial .owl-controls .owl-buttons div, #ferry-testimonial .owl-controls .owl-buttons div:hover, .ferry-callout-feature-box-icon, .ferry-callout-feature-box-icon:hover, .btn-blog:hover, .blog-slider .owl-controls .owl-buttons div:hover, footer .ferry-widget .ferry-subscribe, footer .ferry-widget.widget_search .btn, footer .ferry-widget .ferry-widget-tags a:hover, footer .ferry-widget .tagcloud a:hover, .btn-theme-two:hover, .btn-theme-two:focus, .ferry-sidebar .ferry-widget h6::before, .ferry-sidebar .ferry-widget h2::before, .ti_scroll, .ti_scroll:hover, .ti_scroll:focus, .pagination > .active > a, .pagination > .active > a:hover, .pagination > li > a:hover, .pagination > li > a:focus, .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus, .wpcf7-form .wpcf7-form-control:hover, .wpcf7-form .wpcf7-form-control:focus, .wpcf7-form .wpcf7-form-control.wpcf7-submit, .ferry-sidebar .ferry-widget-tags a:hover, .ferry-sidebar .ferry-widget .tagcloud a:hover, .ferry-sidebar .ferry-widget .ferry-social li span.icon-soci, .form-control:focus, .form-control:hover, .form-control:active, .ferry-contact h5::before, .btn.btn-tislider:hover, .btn.btn-tislider:focus, .btn.btn-tislider-two, .ferry-slider-warraper .owl-controls .owl-buttons div:hover, #ferry-slider .item .ferry-slider-inner .quote-format .quote-icon, #ferry-slider .item .ferry-slider-inner .aside-format .aside-icon, #ferry-slider .item .ferry-slider-inner .audio-format .audio-icon, .ferry-heading-bor-bt h5::before, .ferry-skills h5::before, .ferry-feature-box-icon i, .ferry-feature-box-icon i:hover, .ferry-callout-feature-box-icon, blockquote, input:not([type]):hover, input[type="email"]:hover, input[type="number"]:hover, input[type="password"]:hover, input[type="tel"]:hover, input[type="url"]:hover, input[type="text"]:hover, input:not([type]):focus, input[type="email"]:focus, input[type="number"]:focus, input[type="password"]:focus, input[type="tel"]:focus, input[type="url"]:focus, input[type="text"]:focus {
+	border-color: #B17F53;
+}
+.ferry-products {
+	background: #fff;
+}
+#product .ferry-product a h3 {
+	color: #333;
+}
+#product .ferry-product a.button {
+    background: #B17F53;
+    color: #fff;
+}
+#product .ferry-product a.button:hover, #product .ferry-product a.button:focus {
+    background: #222;
+}
+.testimonials-section .sub-qute {
+    border-color: #B17F53;
+    background: #B17F53;
+}
+.testimonials-section .sub-qute::before {
+    border-top-color: #B17F53; 
+}
+.testimonials-section .ferry-client:before {
+	background: #fff;
+	color: #B17F53;
+}
+.testimonials-section .ferry-client img {
+	border-color: #B17F53;
+}
+.ferry-heading-bor-bt h5::before, .ferry-skills h5::before  {
+	border-bottom-color: #B17F53;
+}
+/*=== theme hover background ===*/
+.btn.btn-tislider-two:hover, .btn.btn-tislider-two:focus, footer .ferry-widget .ferry-subscribe:hover, footer .ferry-widget .ferry-subscribe:focus, footer .ferry-widget.widget_search .btn:hover, footer .ferry-widget.widget_search .btn:focus, .ferry-sidebar .widget_search .btn:hover, .ferry-sidebar .widget_search .btn:focus, .ferry-sidebar .ferry-mailchimp-widget .btn:hover, .ferry-sidebar .ferry-mailchimp-widget .btn:focus {
+	background: #222;
+}
+/*=== blog ===*/
+.ferry-blog-date span i, .ferry-blog-date span {
+	color: #fff;
+}
+.ferry-blog-date {
+	color: #fff;
+}
+.ferry-feature-box-info p, .ferry-blog-category a {
+	color: #fff;
+}
+.ferry-blog-post-box h2.ferry-blog-title, .ferry-blog-post-box h2.ferry-blog-title a {
+	color: #fff;
+}
+.ferry-blog-post-box .small > p {
+	color: #fff;
+}
+.ferry-blog-post-box h2.ferry-blog-title a:hover, .ferry-blog-post-box h2.ferry-blog-title a:focus {	
+	color: #b17f53;
+}
+.ferry-blog-post-box .small {
+	background: rgba(0,0,0,0.3);
+}
+
+.ferry-blog-post-box.white h2.ferry-blog-title, .ferry-blog-post-box.white h2.ferry-blog-title a {
+	color: #212121;
+}
+.ferry-blog-post-box.white .small {
+	background: #fff;
+}
+.ferry-blog-post-box.white .small > p {
+	color: #757575;
+}
+.ferry-blog-post-box.white .ferry-blog-date {
+	color: #757575;
+}
+.ferry-blog-post-box.white h2.ferry-blog-title a:hover, .ferry-blog-post-box.white h2.ferry-blog-title a:focus {	
+	color: #b17f53;
+}
+.ferry-blog-post-box.white .ferry-blog-date span i, .ferry-blog-post-box.white .ferry-blog-date span {
+	color: #757575;
+}
+.ferry-blog-post-box.white .ferry-blog-category a {
+	color: #757575;
+}
+
+/*=== theme hover border-color ===*/
+footer .ferry-widget.widget_search .btn:hover, footer .ferry-widget.widget_search .btn:focus, footer .ferry-widget .ferry-subscribe:hover, footer .ferry-widget .ferry-subscribe:focus, .btn.btn-tislider-two:hover, .btn.btn-tislider-two:focus {
+	border-color: #222;
+}
+
+.ferry-service, .ferry-service:hover .ser-icon, .navbar-toggle:hover .icon-bar, .navbar-toggle:focus .icon-bar, .ferry-link-caption i, .ferry-feature, .blog-slider .owl-controls .owl-page span, .ferry-clients-section {
+	background: #fff;
+}
+.ferry-service :hover .ferry-service-inner i, .ferry-service-inner h3, .ferry-service-inner h3 a, .ferry-service-inner p, .ferry-service :hover .ferry-service-inner h3, .ferry-service-inner .btn-more, footer .ferry-widget-payment a:hover, .ferry-detail-download .btn-download, .ferry-slider-warraper .owl-controls .owl-buttons div, .ferry-view-detail-slider .owl-controls .owl-buttons div,footer .ferry-social li span.icon-soci:hover i, .btn.btn-tislider, .ferry-service:hover .ser-icon, .ferry-sidebar .widget_product_search .btn, footer .widget_product_search .btn, .btn-theme-two, .ferry-service:hover .ferry-service-inner p, footer .ferry-widget ul li, footer .ferry-widget.widget_search .btn:hover, footer .calendar_wrap table tbody td, footer .ferry-widget .ferry-opening-hours li:hover, footer .ferry-widget .list-unstyled li a:hover, footer .ferry-widget ul li a:hover, footer .ferry-widget h6, footer a:hover, footer a:focus, footer .ferry-widget.widget_search .btn:focus, footer .ferry-widget .ferry-subscribe:hover, footer .ferry-widget .ferry-subscribe:focus, .ferry-video .overlay .ferry-heading-inner, .ferry-video .overlay .subtitile, .ferry-calltoaction, .ferry-calltoaction h5, .ferry-calltoaction .btn-theme, .ferry-blog-date, .btn-blog:hover, .blog-slider .owl-controls .owl-buttons div, .blog-slider .owl-controls .owl-buttons div:hover, .ferry-contact .ferry-widget-address .icon-addr, .ferry-contact .ferry-widget-address li span.icon-addr i, footer .ferry-widget .ferry-social li span.icon-soci:hover i, .btn.btn-tislider, .btn.btn-tislider:hover, .btn.btn-tislider:focus, .ferry-plans .ferry-plan header, .ferry-plans .ferry-plan h2, .ferry-plans .ferry-plan .ferry-pupular-ribbon, .ferry-plans .ferry-plan .ferry-new-ribbon, .ferry-plans .ferry-plan .ferry-upcoming-ribbon, footer .ferry-widget .ferry-widget-address li span.icon-addr, footer .ferry-widget .ferry-social li span .icon-soci:hover, footer .ferry-widget .ferry-widget-tags a:hover, footer .ferry-widget .tagcloud a:hover, footer .calendar_wrap a, footer .calendar_wrap table tbody #today, footer .widget_rss, .pagination > .active > a, .pagination > .active > a:hover, .pagination > li > a:hover, .pagination > li > a:focus, .ferry-feature-box-icon i:hover, .ferry-slider-inner h1, .ferry-slider-inner h3, .ferry-slider-inner p, .ferry-breadcrumb-title h1, .ferry-page-breadcrumb > li + li:before, .ferry-page-breadcrumb > li a, .content-testimonials span.icon-quote, #ferry-testimonial .owl-controls .owl-buttons div, #ferry-testimonial .owl-controls .owl-buttons div:hover, .testimonials-section .user-designation, .ferry-sidebar .ferry-widget .ferry-widget-address li span.icon-addr, .ferry-skills .progress-bar-theme, .btn, .btn-theme:hover, .btn-theme:focus, .btn-theme-two:hover, .btn-theme-two:focus, .ferry-sidebar .ferry-widget .ferry-social li span.icon-soci:hover i, .ferry-sidebar .ferry-widget .ferry-social li span.icon-soci:hover, .ferry-sidebar .ferry-mailchimp-widget .btn, #ferry-slider .item .ferry-slider-inner .aside-format .aside-icon i, #ferry-slider .item .ferry-slider-inner .aside-format .aside-format-inner, #ferry-slider .item .ferry-slider-inner .audio-format .audio-icon i, #ferry-slider .item .ferry-slider-inner .audio-format .audio-format-inner, #ferry-slider .item .ferry-slider-inner .quote-format .quote-icon i, #ferry-slider .item .ferry-slider-inner .quote-format .quote-format-inner, .ferry-service:hover .ser-icon, .ferry-service:hover h3, .ferry-service:hover p, .ferry-service:hover a, .ferry-service:hover .ferry-service-inner h3 span, .ferry-service:hover .ferry-service-inner .btn-more, .ferry-funfact h3.ferry-heading-inner, .ferry-funfact, .ferry-portfolio-box .ferry-portfolio-box-caption, .ferry-link-caption a, .ferry-portfolio-box .ferry-portfolio-box-caption .ferry-portfolio-box-caption-content .ferry-project-category a, .ferry-port-modal .modal-title, .ferry-sidebar .ferry-widget-tags a:hover, .ferry-sidebar .ferry-widget .tagcloud a:hover, .ferry-sidebar .calendar_wrap tbody #today, .ferry-sidebar .widget_search .btn, footer .ferry-widget .wpcf7-form .wpcf7-form-control.wpcf7-submit, .wpcf7-form .wpcf7-form-control.wpcf7-submit, .btn.btn-tislider-two, .btn-tislider-two:hover, .btn-tislider-two:focus, .ferry-slider-warraper .owl-controls .owl-buttons div, .ferry-slider-warraper .owl-controls .owl-buttons div:hover, .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus, input[type="submit"], button, .ferry-subscriber h4, .ferry-subscriber h2, .ferry-search-box .ferry-search .btn, .ferry-search .btn-submit, input[type="submit"]:hover, button:hover, input[type="submit"]:focus, button:focus {
+	color: #fff;
+}
+
+.ferry-service:hover .ferry-service-inner i, .ferry-service:hover, .ferry-service:hover .ferry-service-inner .btn-more, .ferry-funfact .ferry-heading .ferry-heading-inner::before, .btn-theme-two, .testimonials-section .ferry-heading .ferry-heading-inner::before, .ferry-callout .ferry-heading .ferry-heading-inner::before, .ferry-service-inner .btn-more, .ferry-funfact .ferry-heading-inner::before, .ferry-callout .ferry-heading-inner::before, .ferry-video .overlay .ferry-heading-inner::before, .blog-slider .owl-controls .owl-buttons div, #ferry-testimonial .owl-controls .owl-buttons div, .testimonials-section .ferry-heading-inner::before, #ferry-testimonial .owl-controls .owl-buttons div {
+	border-color: #fff;
+}
+.ferry-team-social a:hover, footer .calendar_wrap table tbody #today:hover, footer .calendar_wrap table tbody td:hover, footer .ferry-widget .calendar_wrap table tfoot, .ferry-accordion-heading, .ferry-heading .ferry-heading-inner, footer .ferry-widget .calendar_wrap table tfoot a, .pagination > li > a, .woocommerce-page .products h3, .woocommerce div.product .woocommerce-tabs .panel h2, .related.products h2, .woocommerce nav.woocommerce-pagination ul li a, .woocommerce nav .woocommerce-pagination ul li span, .ferry-sidebar .calendar_wrap table tbody td:hover, .ferry-sidebar .calendar_wrap table tbody #today:hover, .ferry-sidebar .calendar_wrap table tfoot {
+	color: #333;
+}
+.ferry-heading .ferry-heading-inner::before {
+	border-color: #333;
+}
+.ferry-sidebar .ferry-widget {
+    border-color: #b17f53;
+    background: #fff;
+}
+.ferry-sidebar a {
+    color: #666;
+}
+.ferry-sidebar .ferry-widget-tags a, .ferry-sidebar .ferry-widget .tagcloud a, .btn-blog, .ferry-sidebar .calendar_wrap table tbody td, .ferry-sidebar .calendar_wrap table tbody td a {
+	color: #999;
+}
+.ferry-accordion-body, .ferry-funfact-inner {
+	border-color: #ccc;
+}
+
+.navbar-wp .navbar-nav > .disabled > a, .navbar-wp .navbar-nav > .disabled > a:hover, .navbar-wp .navbar-nav > .disabled > a:focus, .form-control, .form-control::-moz-placeholder, .form-control:-ms-input-placeholder, .form-control::-webkit-input-placeholder,.ferry-subscriber .subscription-form .int-box, label, input:not([type]), input[type="email"], input[type="number"], input[type="password"], input[type="tel"], input[type="url"], input[type="text"] {
+	color: #ccc;
+}
+
+.grey-bg, footer .calendar_wrap table tfoot, .ferry-sidebar .calendar_wrap table tfoot {
+	background: #f5f5f5;
+}
+.woocommerce nav.woocommerce-pagination ul li a, .woocommerce nav .woocommerce-pagination ul li span, .ferry-sidebar .ferry-widget .calendar_wrap table tbody td, .ferry-sidebar .calendar_wrap table tfoot, footer .calendar_wrap table tbody td, footer .calendar_wrap table tfoot, .ferry-sidebar .calendar_wrap table thead th, .ferry-sidebar .calendar_wrap table caption {
+	border-color: #ddd;
+}
+body, .ferry-sidebar .calendar_wrap table caption, footer .calendar_wrap caption {
+	background: #eee;
+}
+.ferry-plan-price .ferry-currency, .ferry-plan-price .ferry-period, .ferry-sidebar .ferry-widget .textwidget, .ferry-sidebar .ferry-widget .ferry-twitter-feed li, .ferry-sidebar .calendar_wrap table thead th {
+	color: #969ea7;
+}
+.ferry-sidebar .ferry-widget h6, .ferry-sidebar .ferry-widget h2, .ferry-feature-box-info h4, .entry-header h1, .ferry-skills h5, .ferry-skills h6 {
+	color: #1c1f24;
+}
+.btn-video:hover, .entry-content a:hover, .entry-summary a:hover, .entry-footer a:hover {
+	color: #444;
+}
+.ferry-service-inner .btn-more {
+	border-color: #fff;
+}
+.ferry-sidebar .ferry-widget-tags a, .ferry-sidebar .ferry-widget .tagcloud a {
+	background: #f0f0f0;
+}
+.ferry-comments .ferry-reply, .ferry-sidebar .ferry-category-widget ul li, .ferry-sidebar .ferry-widget ul li, .ferry-sidebar .ferry-widget-tags a, .ferry-sidebar .ferry-widget .tagcloud a {
+	border-color: #f0f0f0;
+}
+footer .calendar_wrap table tbody #today:hover, footer .calendar_wrap table tbody td:hover, .ferry-sidebar .calendar_wrap table tbody td:hover, .ferry-sidebar .calendar_wrap table tbody #today:hover {
+	background: #f1f1f1;
+}
+footer .ferry-widget .wpcf7-form .wpcf7-form-control, footer .ferry-widget .wpcf7-form .wpcf7-form-control.wpcf7-submit:hover, .wpcf7-form .wpcf7-form-control.wpcf7-submit:hover, .btn-theme:hover, .btn-theme:focus, .ferry-footer-copyright, footer .ferry-widget .ferry-widget-quote .form-control, input[type="submit"]:hover, button:hover, input[type="submit"]:focus, button:focus {
+	background: #222;
+}
+.wpcf7-form .wpcf7-form-control.wpcf7-submit:hover, .ferry-calltoaction .btn-theme:hover, .ferry-calltoaction .btn-theme:focus, input[type="submit"]:hover, button:hover, input[type="submit"]:focus, button:focus {
+	border-color: #222;
+}
+.ferry-accordion-heading {
+	background-color: #f5f5f5;
+}
+.btn-theme-two {
+	color: #f5f5f5;
+}
+/*==================== Body & Global ====================*/
+.form-control, .ferry-contact .ferry-widget-address > li, .woocommerce-cart table.cart td.actions .coupon .input-text, .wpcf7-form .wpcf7-form-control, input:not([type]), input[type="email"], input[type="number"], input[type="password"], input[type="tel"], input[type="url"], input[type="text"] {
+	border-color: #ebebeb;
+}
+
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+	color: #212121;
+}
+.ferry-service-inner i {
+	color: #3a3a3a;
+}
+.ferry-funfact .overlay {
+	background: rgba(32, 40, 48, 0.8);
+}
+.ferry-callout .overlay {
+	background: rgba(0, 5, 8, 0.7);
+}
+.ferry-video .overlay {
+	background: rgba(0,0,0,0.7);
+}
+.ferry-blog-section .overlay {
+	background: rgba(255,225,225,0);
+}
+.ferry-port-modal .modal-header .close {
+	background: transparent;
+}
+.btn-blog {
+	border-color: #e1e1e1;
+}
+.ferry-plans .overlay {
+	background: rgba(245,245,245,1);
+}
+.ferry-plans .ferry-plan header {
+	background: #232c3b;
+}
+.ferry-plan-features {
+	background: #f5f7fa;
+	border-color: #e6e9ed;
+}
+.ferry-plans .ferry-plan .ferry-pupular-ribbon {
+	background-color: #32c5d2;
+}
+.ferry-plans .ferry-plan .ferry-new-ribbon {
+	background-color: #4caf50;
+}
+.ferry-plans .ferry-plan .ferry-upcoming-ribbon {
+	background-color: #e64a19;
+}
+.ferry-contact .ferry-widget-address > li {
+	color: #959595;
+}
+.ferry-subscriber .overlay {
+	background: rgba(32, 40, 48, 0.6);
+}
+.ferry-sidebar .ferry-widget .ferry-social li span.icon-soci, .btn-theme-two, .ferry-feature-box-icon i, .ferry-callout-feature-box-icon i, footer .ferry-widget .form-control, footer .ferry-widget .ferry-social li span.icon-soci {
+	background: rgba(0,0,0,0);
+}
+.btn.btn-tislider {
+	background: rgba(255, 255, 255, 0.4);
+}
+.btn-tislider {
+	border-color: rgba(255, 255, 255, 0);
+}
+.ferry-accordion-heading, .ferry-sidebar {
+	border-color: rgba(0,0,0,0.1);
+} 
+.testimonials-section .overlay {
+	background: rgba(18, 4, 1, 0.65);
+}
+.ferry-team-info {
+	background: rgba(225, 225, 225, 0.80);
+}
+.ferry-team-box:hover .ferry-team-info {
+	background: #B17F53;
+}
+.ferry-team-info h3, .ferry-team-info {
+	color: #222;
+}
+.ferry-team-box:hover .ferry-team-info h3,.ferry-team-info:hover p, .ferry-team-social a {
+	color: #fff;
+}
+
+.ferry-portfolio-box .overlay .btn:hover {
+	color: #fff;
+	background: #B17F53;
+	border-color: #B17F53;
+}
+.ferry-portfolio-box h4, .ferry-portfolio-box h4 a {
+	color: #333;
+}
+.ferry-portfolio-category a {
+	color: #a1a4a6; 
+}
+.ferry-portfolio-category a:hover, .ferry-portfolio-category a:focus {
+	color: #B17F53; 
+}
+.ferry-clients-section .owl-controls .owl-buttons div:hover {
+	background: #B17F53;
+	border-color: #B17F53;
+	color: #fff;
+}
+/*==================== footer color ====================*/
+/*=== footer heading color ===*/
+footer .ferry-footer-top-area h6, footer .ferry-widget h6 {
+	color: #fff;
+}
+
+footer .ferry-widget .calendar_wrap table thead th, label, footer .ferry-blog-post span, footer p, footer .ferry-widget .textwidget, footer a, footer .ferry-widget .list-unstyled li a, footer .ferry-widget .ferry-twitter-feed li, footer .ferry-widget .ferry-widget-address li, footer .ferry-widget .ferry-social li span.icon-soci, footer .ferry-widget .ferry-opening-hours li, footer .ferry-widget .ferry-widget-tags a ,footer .ferry-widget .tagcloud a, footer .ferry-widget-quote .form-control, footer .ferry-widget-tollfree li a, footer .ferry-widget-tollfree li i, footer .ferry-widget-payment a, footer .ferry-calendar a:hover, footer .ferry-calendar thead th, footer .wpcf7-form p, footer .ferry-widget .wpcf7-form .wpcf7-form-control {
+	color: #969ea7;
+}
+
+footer .ferry-widget .form-control, footer .ferry-widget ul li, footer .ferry-widget .list-unstyled li, footer .ferry-widget .ferry-social li span.icon-soci, footer .calendar_wrap caption, footer .ferry-widget .ferry-widget-tags a, footer .ferry-widget .tagcloud a, footer .calendar_wrap table thead th  {
+	border-color: #969ea7;
+}
+/*==================== footer hover color ====================*/
+footer a:hover, footer a:focus, footer .ferry-widget .ferry-subscribe:hover, footer .ferry-widget .ferry-subscribe:focus, footer .ferry-widget .ferry-search-widget .btn:hover, footer .ferry-widget .ferry-search-widget .btn:focus, footer .ferry-widget .list-unstyled li a:hover, footer .ferry-widget .ferry-opening-hours li:hover, footer .ferry-widget .ferry-widget-address li span.icon-addr, footer .ferry-widget .ferry-social li span.icon-soci:hover i, footer .ferry-widget .ferry-social li span.icon-soci:hover, footer .ferry-widget .ferry-widget-tags a:hover ,footer .ferry-widget .tagcloud a:hover, footer .ferry-calendar a, footer .ferry-calendar tbody td, footer .ferry-calendar tbody #today {
+	color: #fff;
+}
+
+
+footer .ferry-calendar tbody #today:hover, footer .ferry-calendar tbody td:hover, footer .ferry-calendar tfoot, footer .ferry-calendar tfoot a {
+	color: #333;
+}
+
+/*==================== footer background ====================*/
+footer .overlay{
+	background: #000;
+}
+footer .ferry-footer-widget-area {
+	border-top-color: rgba(225,225,225,0.2);
+}
+footer .ferry-footer-copyright {
+	background: #000;
+	border-color: rgba(225,225,225,0.2);
+}
+footer .ferry-footer-copyright p, footer .ferry-footer-copyright a {
+	color: #969ea7;
+}
+footer .ferry-footer-copyright a:hover, footer .ferry-footer-copyright a:focus {
+	color: #fff;
+}
+.ferry_scroll { 
+	background: #B17F53;
+	color: #fff;
+}
+.ferry_scroll i { 
+	color: #fff;
+}
+/*==================== WP Styles  & woocomerce ====================*/
+
+/*----woocommerce----*/ 
+
+/*-theme-background-*/ 
+.woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce #respond input#submit, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce .cart .button, .woocommerce .cart input.button, .woocommerce a.button, .woocommerce button.button, .woocommerce-page .products a.button, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt.disabled, .woocommerce #respond input#submit.alt.disabled:hover, .woocommerce #respond input#submit.alt:disabled, .woocommerce #respond input#submit.alt:disabled:hover, .woocommerce #respond input#submit.alt[disabled]:disabled, .woocommerce #respond input#submit.alt[disabled]:disabled:hover, .woocommerce a.button.alt.disabled, .woocommerce a.button.alt.disabled:hover, .woocommerce a.button.alt:disabled, .woocommerce a.button.alt:disabled:hover, .woocommerce a.button.alt[disabled]:disabled, .woocommerce a.button.alt[disabled]:disabled:hover, .woocommerce button.button.alt.disabled, .woocommerce button.button.alt.disabled:hover, .woocommerce button.button.alt:disabled, .woocommerce button.button.alt:disabled:hover, .woocommerce button.button.alt[disabled]:disabled, .woocommerce button.button.alt[disabled]:disabled:hover, .woocommerce input.button.alt.disabled, .woocommerce input.button.alt.disabled:hover, .woocommerce input.button.alt:disabled, .woocommerce input.button.alt:disabled:hover, .woocommerce input.button.alt[disabled]:disabled, .woocommerce input.button.alt[disabled]:disabled:hover {
+	background: #B17F53;
+}
+/*-theme-color-*/ 
+.woocommerce a, .woocommerce #respond input#submit, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce-page .products .added_to_cart, .woocommerce div.product .woocommerce-tabs ul.tabs li.active, .woocommerce div.product .woocommerce-tabs ul.tabs li.active {
+	color: #B17F53;
+}
+/*-theme-border-color-*/ 
+.woocommerce-cart table.cart td.actions .coupon .input-text:hover, .woocommerce-cart table.cart td.actions .coupon .input-text:focus, .woocommerce div.product .woocommerce-tabs ul.tabs li.active, .woocommerce nav .woocommerce-pagination ul li a:focus, .woocommerce nav .woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current {
+	border-color: #B17F53;
+}
+
+/*-theme-secondary-background-*/ 
+.woocommerce #review_form #respond .form-submit input:hover, .woocommerce-page .products a.button:hover, .woocommerce .cart .button:hover, .woocommerce .cart input.button:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce #respond input#submit:hover, .woocommerce #respond input#submit:focus, .woocommerce a.button:hover, .woocommerce a.button:focus, .woocommerce button.button:hover, .woocommerce button.button:focus, .woocommerce input.button:hover, .woocommerce input.button:focus {
+	background: #161c28;
+}
+/*-theme-secondary-color-*/ 
+.woocommerce div.product .woocommerce-tabs ul.tabs li a {
+	color: #161c28;
+}
+/*-theme-color-white-*/ 
+.woocommerce-page .woocommerce .woocommerce-info a, .woocommerce-page .woocommerce .woocommerce-info:before, .woocommerce-page .woocommerce-message, .woocommerce-page .woocommerce-message a, .woocommerce-page .woocommerce-message a:hover, .woocommerce-page .woocommerce-message a:focus, .woocommerce .woocommerce-message::before, .woocommerce-page .woocommerce-error, .woocommerce-page .woocommerce-error a, .woocommerce-page .woocommerce .woocommerce-error:before, .woocommerce-page .woocommerce-info, .woocommerce-page .woocommerce-info a, .woocommerce-page .woocommerce-info:before, .woocommerce-page .woocommerce .woocommerce-info, .woocommerce-cart .wc-proceed-to-checkout a .checkout-button, .ferry-callout h3.ferry-heading-inner, .ferry-callout, .ferry-callout h1, .ferry-callout h3, .ferry-callout-feature-box-icon:hover i, .woocommerce .cart .button, .woocommerce .cart input.button, .woocommerce a.button, .woocommerce button.button, .woocommerce #respond input#submit, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce nav .woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce-page .products a.button, .woocommerce #respond input#submit:hover, .woocommerce #respond input#submit:focus, .woocommerce a.button:hover, .woocommerce a.button:focus, .woocommerce button.button:hover, .woocommerce button.button:focus, .woocommerce input.button:hover, .woocommerce input.button:focus {
+	color: #fff;
+}
+
+.woocommerce .products span.onsale, .woocommerce span.onsale {
+	background: #4caf50;
+}
+
+.woocommerce-page .products a .price, .woocommerce ul.products li.product .price, .woocommerce div.product p.price, .woocommerce div.product span.price {
+	color: #000;
+}
+.woocommerce-page .products a .price ins {
+	color: #e96656;
+}
+.woocommerce-page .products .star-rating, .woocommerce-page .star-rating span, .woocommerce-page .stars span a {
+	color: #ffc107;
+}
+
+/*woocommerce-messages*/
+.woocommerce-page .woocommerce-message {
+	background: #2ac56c;
+}
+.woocommerce-page .woocommerce-message a {
+	background-color: #4caf50;
+}
+.woocommerce-page .woocommerce-message a:hover, .woocommerce-page .woocommerce-message a:focus {
+	background-color: #388e3c;
+}
+.woocommerce-page .woocommerce-error {
+	background: #ff5252;
+}
+.woocommerce-page .woocommerce-error a {
+	background-color: #F47565;
+}
+.woocommerce-page .woocommerce-info {
+	background: #4593e3;
+}
+.woocommerce-page .woocommerce-info a {
+	background-color: #5fb8dd;
+}
+.woocommerce-page .woocommerce .woocommerce-info {
+	background: rgb(58, 176, 226);
+}
+
+/*woocommerce-Price-Slider*/ 
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range {
+	background: #B17F53;
+}
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
+	background: #B17F53;
+}
+/*woocommerce shop table*/ 
+.woocommerce table.shop_table {
+	border-color: rgba(0, 0, 0, 0.11);
+}
+.woocommerce table.shop_table th {
+	background: #fff;
+}
+.woocommerce table.shop_table td {
+	background: #fff;
+}
+
+/*Responsive*/ 
+@media (max-width: 992px) {
+.ferry-trhead {
+	background: rgba(0,0,0,0.8);
+}
+}

@@ -1,0 +1,42 @@
+@mixin rotate($rotate) {
+  -webkit-transform: rotate($rotate);
+   -webkit-transform-origin: right top;
+   -moz-transform: rotate($rotate);
+   -moz-transform-origin: right top;
+   -ms-transform: rotate($rotate);
+   -ms-transform-origin: right top;
+   -o-transform: rotate($rotate);
+   -o-transform-origin: right top;
+   transform: rotate($rotate);
+   transform-origin: right top;
+}
+@mixin box-sizing($value){
+  box-sizing: $value;
+  -webkit-box-sizing: $value;
+  -moz-box-sizing: $value;
+}
+
+@mixin ipad {
+  @media (max-width: 768px) {
+    @content;
+  }
+}
+
+@mixin phone {
+  @media (max-width: 480px) {
+    @content;
+  }
+}
+
+@mixin ipad_landscape {
+  @media (min-width: 1020px) {
+    @content;
+  }
+}
+
+@mixin phone_small {
+  @media (max-width: 350px) {
+    @content;
+  }
+}
+
